@@ -1,4 +1,4 @@
-# Bike Sharing
+# 🚲 Bike Sharing
 
 Data visualization project using Streamlit. The data was obtained from Kaggle's Washington D.C. Bike Sharing set. It includes variables different variables which impact the use of the bike sharing service around the city.
 
